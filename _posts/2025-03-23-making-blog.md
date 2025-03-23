@@ -1,21 +1,31 @@
 ---
-title: 개발은 1도 모르는 깃허브 블로그 만들기
+title: 개발은 1도 모르는 깃허브 블로그 제작 일지
 tags: TeXt, 기획, 개발, 깃헙, 깃허브, 블로그
 ---
-
+   
 개발자가 아님에도 깃허브 블로그를 사용하는 이유    
 
-### 1. 회사에서 개발자분들은 협업을 위해 깃허브(Github)를 사용하는데, 솔루션에 익숙해지면 업무 협업에 도움이 될 것 같다.   
-### 2. 개발을 위해 파이썬(Python)을 배우려고 생각 중인데, 코드를 원활히 쓸 수 있는 솔루션이다.
-### 3. 마크다운을 배워야 하는데 현재 파이썬을 배우기 위해 설치해놓은 vscode로 글을 쓸 수 있다.
-디자인 시 마크업과 마크다운의 관계는 정확히 모르겠지만 그래도 도움이 될 것 같다.
+## 1. 회사에서 개발자분들은 협업을 위해 깃허브(Github)를 사용하는데, 솔루션에 익숙해지면 업무 협업에 도움이 될 것 같다.   
+## 2. 개발을 위해 파이썬(Python)을 배우려고 생각 중인데, 깃허브(Github)는 코딩에 최적화된 솔루션이다.   
+## 3. 파이썬을 배우기 위해 설치해놓은 vscode로 글을 쓸 수 있다.   
+## 4. 디자인 협업을 위해 마크업(Mark-up) 지식이 필요한데, 글 작성 시 필요한 마크다운(Mark-down)과의 관계는 정확히 모르겠지만 그래도 도움이 될 것 같다.   
+   
+   
+## 20250319   
+초보자를 위한 깃허브 (github) blog 만들기에 도전해보기로 한다.   
+우선 깃허브 계정에 가입했지만 뭐가 뭔지 아직 모르겠다.   
 
-그래서 초보자를 위한 github blog 만들기에 도전해보기로 한다.
-우선 깃허브 계정에 가입했지만 뭐가 뭔지 아직 모르겠다.
-
-20250321
-https://tired-o.github.io 추가 글이 없어서 다른 블로그 참조
-로그인 문제 해결 https://coderefactoring.tistory.com/entry/터미널-깃허브-PUSH-로그인-안됨-문제-해결-fatal-Authentication-failed-for-httpsgithubcom 감사합니다.
+## 20250321   
+깃허브 가입 후 리포지터리(Repository)를 만들었다.   
+리포지터리는 '개별 저장소'의 느낌이다.
+   
+코딩을 위해 Mac OS에서 '터미널(Terminal)'이라는 응용프로그램을 사용한다.   
+"MacTerminal은 Mac에서 사용할 수 있는 최초의 통신 및 터미널 에뮬레이션 응용 프로그램 소프트웨어 프로그램입니다."   
+   
+깃허브 로그인에 문제가 생겨 해결을 위해 깃허브에서 토큰을 발행하여 로그인했다.
+(https://coderefactoring.tistory.com/entry/터미널-깃허브-PUSH-로그인-안됨-문제-해결-fatal-Authentication-failed-for-httpsgithubcom) 감사합니다.   
+   
+여러가지 
 Home brew 설치 https://brew.sh 코드를 터미널에 붙여넣기 한 후 password는 pc 로그인 비밀번호 입력했다.
 Home brew 오류 zsh: command not found: brew https://miracleground.tistory.com/entry/Mac에서-Homebrew-설치-후-zsh-command-not-found-brew-오류해결
 Ruby & Jekyll 설치 https://skylarcoding.tistory.com/139
