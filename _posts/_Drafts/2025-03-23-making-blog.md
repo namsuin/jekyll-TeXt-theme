@@ -1,0 +1,17 @@
+---
+title: 조회수 위젯 추가하기
+tags: TeXt, 기획, 개발, 깃헙, 깃허브, 블로그
+---
+   
+조회수는 아래 사이트를 참고했습니다.   
+https://hits.seeyoufarm.com
+
+https://hygge-wavy.tistory.com/65
+<!--more-->
+
+---
+
+궁금한 점이 있다면 저에게 [email](mailto:plansuin@gmail.com) 을 보내주세요!
+제가 할 수 있는 한 최선의 답변을 드리도록 하겠습니다. :star2:
+
+[![Star This Project](https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&style=social)](https://github.com/kitian616/jekyll-TeXt-theme/)
